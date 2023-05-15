@@ -1,0 +1,5 @@
+C:\Users\MTA 216\Desktop\Ragnarok\obj\Debug\net6.0\Ragnarok.csproj.AssemblyReference.cache
+C:\Users\MTA 216\Desktop\Ragnarok\obj\Debug\net6.0\Ragnarok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTA 216\Desktop\Ragnarok\obj\Debug\net6.0\Ragnarok.AssemblyInfoInputs.cache
+C:\Users\MTA 216\Desktop\Ragnarok\obj\Debug\net6.0\Ragnarok.AssemblyInfo.cs
+C:\Users\MTA 216\Desktop\Ragnarok\obj\Debug\net6.0\Ragnarok.csproj.CoreCompileInputs.cache
